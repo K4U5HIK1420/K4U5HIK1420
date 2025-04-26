@@ -2,7 +2,7 @@
 <h3 align="center">A passionate coder, dreamer, and creator 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Innovating+Code;Building+Dreams;Exploring+Endless+Possibilities!&center=true&width=500&height=50">
+  <img src="link-to-your-banner.png" alt="My Awesome Banner" width="800"/>
 </p>
 
 ---
