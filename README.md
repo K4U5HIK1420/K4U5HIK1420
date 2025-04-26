@@ -19,16 +19,16 @@
 
 🚀 **Skills and Tools:**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,react,nodejs,mysql,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,react,nodejs,mongodb,mysql,postman,git,github,vscode,linux" />
 </div>
 
 ---
 
 🌎 **Connect with me:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-linkedin-link) 
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](your-youtube-link)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](your-insta-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/k4u5hik14/) 
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/745272329679929398)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/k4u5hik_14/)
 
 ---
 
