@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anant Kaushik</h1>
-<h3 align="center">A passionate coder, dreamer, and creator 🚀</h3>
-
-<p align="center">
-  <img src="link-to-your-banner.png" alt="My Awesome Banner" width="800"/>
-</p>
+<img src="GithubBanner.png" alt="ANANT KAUSHIK BANNER" width="100%"/>
 
 ---
 
